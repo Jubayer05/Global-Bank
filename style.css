@@ -3,7 +3,7 @@ body {
 }
 
 .bank-heading {
-  width: 500px;
+  width: 520px;
   text-align: center;
   font-size: 40px;
   padding-top: 70px;
@@ -23,7 +23,7 @@ body {
 }
 
 label {
-  padding-left: 10px;
+  padding-left: 13px;
   margin-top: 5px;
 }
 
